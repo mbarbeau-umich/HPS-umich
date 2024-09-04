@@ -32,9 +32,15 @@ $ git config --global user.name "Your Name"
 ```
 
 3. Make changes on your local branch
+```
+$ git status // outputs tracked changes, should be red
+```
 
 4. Push local changes to repo
 ```
+$ git add . 
+$ git status // outputs tracked changes, should be green
+$ git commit -m "COMMIT_MESSAGE"
 $ git push
 ```
 
