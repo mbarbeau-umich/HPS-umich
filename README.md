@@ -2,29 +2,31 @@
 
 ## Info
 HPS-umich
-Team Lead: Marcellin Barbeau, <mbarbeau@umich.edu>
+
+Electronics Team Lead: 
+- Marcellin Barbeau, <mbarbeau@umich.edu>
 
 Team Members: 
+- 
+- 
 
 README last updated: 6 September 2024
 
 ## Task List
-- [x] Make Git Repo
-- [ ] Format Git Repo and upload current code
-- [ ] Order Waterproof Servos 
+- [x] Make Git repo
+- [ ] Format Git repo and upload current code
+- [ ] Order waterproof servos 
 - [ ] PCB component planning
 - [ ] Power system for servos planned
 - [ ] Post processing script planning
 
 ## Setup Local Git Repo
-1. Clone the repo
-
+1. Clone the team repo
 ```
 $ git clone https://github.com/mbarbeau-umich/HPS-umich.git
 ```
 
 2. Setup your git account:
-
 ```
 $ git config --global user.email "you@example.com"
 $ git config --global user.name "Your Name"
