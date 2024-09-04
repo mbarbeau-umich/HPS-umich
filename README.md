@@ -37,19 +37,24 @@ Update Repo:
 2. git pull
 
 Open Branch:
-1. 
-2. 
-3. 
+1. STUFF
+2. STUFF
+3. STUFF
 
 Push Changes to your branch:
-1. 
-2. 
-3. 
+1. STUFF
+2. STUFF
+3. STUFF
 
 Merge Branch to main:
-1. 
-2. 
-3. 
+1. STUFF
+2. STUFF
+3. STUFF
+
+Clear local changes and pull most recent files
+```
+git reset --hard origin/main
+```
 
 ## Software Loading Hardware
 
