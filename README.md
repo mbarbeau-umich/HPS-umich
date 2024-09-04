@@ -5,6 +5,7 @@ University of Michigan Human Powered Submarine Team
 README last updated: 6 Jun 2024
 
 Team Lead: Marcellin Barbeau
+
 Team Members: 
 
 ## Task List
@@ -19,14 +20,18 @@ Team Members:
 ## Setup Local Git Repo
 Download Repo:
 1. Clone the repo
-'''terminal
+
+'''
 >> git clone https://github.com/mbarbeau-umich/HPS-umich.git
 '''
+
 2. setup your git account:
+
 '''
 >> git config --global user.email "you@example.com"
 >> git config --global user.name "Your Name"
 '''
+
 Update Repo:
 1. Naviate into ~/HPS-umich/ --> cd 
 2. git pull
