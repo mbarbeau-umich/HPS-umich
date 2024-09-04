@@ -7,8 +7,8 @@ Electronics Team Lead:
 - Marcellin Barbeau, <mbarbeau@umich.edu>
 
 Team Members: 
-- 
-- 
+- TEST
+- TEST
 
 README last updated: 6 September 2024
 
