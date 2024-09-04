@@ -19,7 +19,7 @@ Team Members:
 ## Setup Local Git Repo
 Download Repo:
 1. Clone the repo
-'''
+'''terminal
 >> git clone https://github.com/mbarbeau-umich/HPS-umich.git
 '''
 2. setup your git account:
