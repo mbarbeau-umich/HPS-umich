@@ -11,10 +11,13 @@ Team Members:
 ## Task List
 
 
-## Git Commands
+## Setup Local Git Repo
 Download Repo:
-1. git clone https://github.com/mbarbeau-umich/HPS-umich.git
-2. 
+1. Clone the repo
+> git clone https://github.com/mbarbeau-umich/HPS-umich.git
+2. setup your git account:
+    > git config --global user.email "you@example.com"
+    > git config --global user.name "Your Name"
 3.
 
 Update Repo:
