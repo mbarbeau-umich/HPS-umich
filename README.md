@@ -1,12 +1,10 @@
-# HPS-umich
+# University of Michigan Human Powered Submarine Team 
+
 ## Info
-University of Michigan Human Powered Submarine Team 
-
-README last updated: 6 Jun 2024
-
-Team Lead: Marcellin Barbeau
-
+HPS-umich
+Team Lead: Marcellin Barbeau, <mbarbeau@umich.edu>
 Team Members: 
+README last updated: 6 September 2024
 
 ## Task List
 - [x] Make Git Repo
@@ -16,7 +14,6 @@ Team Members:
 - [ ] Power system for servos planned
 - [ ] Post processing script planning
 
-
 ## Setup Local Git Repo
 Download Repo:
 1. Clone the repo
@@ -25,35 +22,39 @@ Download Repo:
 $ git clone https://github.com/mbarbeau-umich/HPS-umich.git
 ```
 
-2. setup your git account:
+2. Setup your git account:
 
 ```
 $ git config --global user.email "you@example.com"
 $ git config --global user.name "Your Name"
 ```
 
-Update Repo:
-1. Naviate into ~/HPS-umich/ --> cd 
-2. git pull
+3. Make changes on your local branch
 
-Open Branch:
-1. STUFF
-2. STUFF
-3. STUFF
+4. Push local changes to repo
+```
+git push
+```
 
-Push Changes to your branch:
-1. STUFF
-2. STUFF
-3. STUFF
-
-Merge Branch to main:
-1. STUFF
-2. STUFF
-3. STUFF
-
+### Use Git Commands
 Clear local changes and pull most recent files
 ```
 git reset --hard origin/main
+```
+
+Open Branch:
+```
+FILL THIS WITH COMMAND
+```
+
+Push Changes to your branch:
+```
+FILL THIS WITH COMMAND
+```
+
+Merge Branch to main:
+```
+FILL THIS WITH COMMAND
 ```
 
 ## Software Loading Hardware
