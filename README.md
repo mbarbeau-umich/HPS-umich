@@ -3,7 +3,9 @@
 ## Info
 HPS-umich
 Team Lead: Marcellin Barbeau, <mbarbeau@umich.edu>
+
 Team Members: 
+
 README last updated: 6 September 2024
 
 ## Task List
@@ -15,7 +17,6 @@ README last updated: 6 September 2024
 - [ ] Post processing script planning
 
 ## Setup Local Git Repo
-Download Repo:
 1. Clone the repo
 
 ```
@@ -33,13 +34,13 @@ $ git config --global user.name "Your Name"
 
 4. Push local changes to repo
 ```
-git push
+$ git push
 ```
 
-### Use Git Commands
+### Useful Git Commands
 Clear local changes and pull most recent files
 ```
-git reset --hard origin/main
+$ git reset --hard origin/main
 ```
 
 Open Branch:
@@ -59,7 +60,7 @@ FILL THIS WITH COMMAND
 
 ## Software Loading Hardware
 
-> this section will outline out to upload new dive code to the hardware
+> this section will outline how to upload new dive code to the hardware
 
 
 ## Data formatting
