@@ -13,7 +13,7 @@ README last updated: 5 September 2024
 
 ## Task List
 - [x] Make Git repo
-- [ ] Format Git repo and upload current code
+- [X] Format Git repo and upload current code
 - [ ] Order waterproof servos 
 - [ ] PCB component planning
 - [ ] Power system for servos planned
