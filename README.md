@@ -17,7 +17,7 @@ README last updated: 5 September 2024
 - [x] Format Git repo and upload current code
 - [ ] Power system for servos planned
 - [ ] Order waterproof servos 
-- [ ] PCB component planning
+- [ ] PCB component trade studies
 - [ ] PCB board modeled
 - [ ] PCB and other hardware ordered
 - [ ] Code base restructured
