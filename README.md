@@ -22,36 +22,36 @@ README last updated: 5 September 2024
 ## Setup Local Git Repository
 1. Clone the team repo
 ```
-$ git clone https://github.com/mbarbeau-umich/HPS-umich.git
+git clone https://github.com/mbarbeau-umich/HPS-umich.git
 ```
 
 2. Setup your git account:
 ```
-$ git config --global user.email "you@example.com"
-$ git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
 ```
 
 3. Pull most up-to-date files
 ```
-$ git pull
+git pull
 ```
 
 4. Make changes on your local branch
 
 5. Push local changes to repo
 ```
-$ git status 
-$ git add . 
-$ git status
-$ git commit -m "COMMIT_MESSAGE"
-$ git push
+git status 
+git add . 
+git status
+git commit -m "COMMIT_MESSAGE"
+git push
 ```
 
 ### Useful Git Commands
 Delete local changes and pull most recent files
 ```
-$ git reset --hard origin/main
-$ git pull
+git reset --hard origin/main
+git pull
 ```
 
 Open Branch:
