@@ -9,7 +9,7 @@ Electronics Team Lead:
 Team Members: 
 - TEMP
 
-README last updated: 6 September 2024
+README last updated: 5 September 2024
 
 ## Task List
 - [x] Make Git repo
@@ -19,7 +19,7 @@ README last updated: 6 September 2024
 - [ ] Power system for servos planned
 - [ ] Post processing script planning
 
-## Setup Local Git Repo
+## Setup Local Git Repository
 1. Clone the team repo
 ```
 $ git clone https://github.com/mbarbeau-umich/HPS-umich.git
@@ -31,13 +31,16 @@ $ git config --global user.email "you@example.com"
 $ git config --global user.name "Your Name"
 ```
 
-3. Make changes on your local branch
+3. Pull most up-to-date files
 ```
-$ git status // outputs tracked changes, should be red
+$ git pull
 ```
 
-4. Push local changes to repo
+4. Make changes on your local branch
+
+5. Push local changes to repo
 ```
+$ git status 
 $ git add . 
 $ git status // outputs tracked changes, should be green
 $ git commit -m "COMMIT_MESSAGE"
@@ -45,9 +48,10 @@ $ git push
 ```
 
 ### Useful Git Commands
-Clear local changes and pull most recent files
+Delete local changes and pull most recent files
 ```
 $ git reset --hard origin/main
+$ git pull
 ```
 
 Open Branch:
@@ -67,7 +71,7 @@ FILL THIS WITH COMMAND
 
 ## Software Loading Hardware
 
-> this section will outline how to upload new dive code to the hardware
+> this section will outline how to boot the hardware with new dive code
 
 
 ## Data formatting
