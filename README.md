@@ -12,12 +12,23 @@ Team Members:
 README last updated: 5 September 2024
 
 ## Task List
+### System Tasks
 - [x] Make Git repo
-- [X] Format Git repo and upload current code
+- [x] Format Git repo and upload current code
+- [ ] Power system for servos planned
 - [ ] Order waterproof servos 
 - [ ] PCB component planning
-- [ ] Power system for servos planned
+- [ ] PCB board modeled
+- [ ] PCB and other hardware ordered
+- [ ] Code base restructured
+- [ ] dive-code bare-bones runtime ClockManager built
+
+### Testing Tasks
 - [ ] Post processing script planning
+- [ ] Sensor calibration test plan written (wet)
+- [ ] Servo dry testing
+- [ ] Servo wet testing plan
+- [ ] Servo wet test
 
 ## Setup Local Git Repository
 1. Clone the team repo
