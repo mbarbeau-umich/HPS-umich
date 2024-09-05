@@ -42,7 +42,7 @@ $ git pull
 ```
 $ git status 
 $ git add . 
-$ git status // outputs tracked changes, should be green
+$ git status
 $ git commit -m "COMMIT_MESSAGE"
 $ git push
 ```
