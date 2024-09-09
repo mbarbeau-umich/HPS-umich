@@ -15,17 +15,16 @@ README last updated: 5 September 2024
 ### System Tasks
 | Task | Timeline |
 | ---- | -------- |
-| :white_check_mark: Make Git repo ----------------------------- | $${\color{blue}Due: 09/08 }$$ |	
-| :white_check_mark: Format Git repo and upload current code --- | $${\color{blue}Due: 09/08 }$$ |	
-|                :x: Order electronic controls min hardware ---- | $${\color{red }Due: 09/15 }$$ |	
-|                :x: Code base restructured -------------------- | $${\color{red }Due: 09/15 }$$ |	
-|                :x: Power system for servos planned ----------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
-|                :x: Learn KiCAD ------------------------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
-|                :x: Test </li></ul> PCB component trade studies --------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
-|                :x: PCB board modeled ------------------------- | $${\color{red }Due: 09/29 }$$ |	
-|                :x: PCB and other hardware ordered | $${\color{red }Due: 10/06}$$ |	
-
-- [ ] dive-code bare-bones runtime ClockManager - $${\color{red }Due: 09/22 }$$	
+| :white_check_mark: Make Git repo                               | $${\color{blue}Due: 09/08 }$$         |	
+| :white_check_mark: Format Git repo and upload current code     | $${\color{blue}Due: 09/08 }$$         |	
+|                :x: Order electronic controls min hardware      | $${\color{red }Due: 09/15 }$$         |	
+|                :x: Code base restructured                      | $${\color{red }Due: 09/15 }$$         |	
+|                :x: Power system for servos planned             | $${\color{red }Due: 09/08 - 09/22 }$$ |	
+|                :x: Learn KiCAD                                 | $${\color{red }Due: 09/08 - 09/22 }$$ |	
+|                :x: Test </li></ul> PCB component trade studies | $${\color{red }Due: 09/08 - 09/22 }$$ |	
+|                :x: PCB board modeled                           | $${\color{red }Due: 09/29 }$$         |	
+|                :x: PCB and other hardware ordered              | $${\color{red }Due: 10/06}$$          |	
+|                :x: dive code bare-bones runtime ClockManager   | $${\color{red }Due: 09/22 }$$         |
 
 ### Testing Tasks
 - [ ] Post processing script planning
