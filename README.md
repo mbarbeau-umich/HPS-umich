@@ -13,15 +13,16 @@ README last updated: 5 September 2024
 
 ## Task List
 ### System Tasks
-- [x] Make Git repo $${\color{blue}TEMP}$$	
-- [x] Format Git repo and upload current code
-- [ ] Power system for servos planned
-- [ ] Order waterproof servos 
-- [ ] PCB component trade studies
-- [ ] PCB board modeled
-- [ ] PCB and other hardware ordered
-- [ ] Code base restructured
-- [ ] dive-code bare-bones runtime ClockManager built
+- [x] Make Git repo $${\color{red}Due: 09/08 }$$	
+- [x] Format Git repo and upload current code $${\color{red}Due: 09/08 }$$	
+- [ ] Power system for servos planned $${\color{red}Due: 09/08 - 09/15 }$$	
+- [ ] Order electronic controls minimum hardware $${\color{red}Due: 09/15 }$$	
+- [ ] Learn KiCAD $${\color{red}Due: 09/08 - 09/22 }$$	
+- [ ] PCB component trade studies $${\color{red}Due: 09/22 }$$	
+- [ ] PCB board modeled $${\color{red}Due: 09/29 }$$	
+- [ ] PCB and other hardware ordered $${\color{red}Due: 10/06 }$$	
+- [ ] Code base restructured $${\color{red}Due: 09/15 }$$	
+- [ ] dive-code bare-bones runtime ClockManager $${\color{red}Due: 09/ }$$	
 
 ### Testing Tasks
 - [ ] Post processing script planning
