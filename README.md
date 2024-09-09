@@ -15,7 +15,7 @@ README last updated: 5 September 2024
 ### System Tasks
 | Task | Timeline |
 | ---- | -------- |
-| <ul><li>[X] </li></ul> Make Git repo ----------------------------- | $${\color{blue}Due: 09/08 }$$ |	
+| <style>span[class="unchecked"]{color: red;}</style> Make Git repo ----------------------------- | $${\color{blue}Due: 09/08 }$$ |	
 | <ul><li>[X] </li></ul> Format Git repo and upload current code --- | $${\color{blue}Due: 09/08 }$$ |	
 | <ul><li>[X] </li></ul> Order electronic controls min hardware ---- | $${\color{red }Due: 09/15 }$$ |	
 | <ul><li>[X] </li></ul> Code base restructured -------------------- | $${\color{red }Due: 09/15 }$$ |	
@@ -23,7 +23,7 @@ README last updated: 5 September 2024
 | <ul><li>[X] </li></ul> Learn KiCAD ------------------------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
 | <ul><li>[X] </li></ul> PCB component trade studies --------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
 | <ul><li>[X] </li></ul> PCB board modeled ------------------------- | $${\color{red }Due: 09/29 }$$ |	
-| <ul><li>[X] </li></ul> PCB and other hardware ordered | $${\color{red }Due: 10/06}$$ |	
+| <style>span[class="checked"]{color: green;}</style> PCB and other hardware ordered | $${\color{red }Due: 10/06}$$ |	
 
 - [ ] dive-code bare-bones runtime ClockManager - $${\color{red }Due: 09/22 }$$	
 
