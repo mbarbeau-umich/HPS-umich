@@ -23,7 +23,7 @@ README last updated: 5 September 2024
 |- [ ] Learn KiCAD ------------------------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
 |- [ ] PCB component trade studies --------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
 |- [ ] PCB board modeled ------------------------- | $${\color{red }Due: 09/29 }$$ |	
-|- [ ] PCB and other hardware ordered ------------ | $${\color{red }Due: 10/06 }$$ |	
+|<ul><li>- [x] item1</li><li>- [ ] item2</li></ul> PCB and other hardware ordered ------------ | $${\color{red }Due: 10/06}$$ |	
 
 - [ ] dive-code bare-bones runtime ClockManager - $${\color{red }Due: 09/22 }$$	
 
