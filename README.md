@@ -13,7 +13,7 @@ README last updated: 5 September 2024
 
 ## Task List
 ### System Tasks
-- [x] Make Git repo
+- [x] Make Git repo $${\color{blue}TEMP}$$	
 - [x] Format Git repo and upload current code
 - [ ] Power system for servos planned
 - [ ] Order waterproof servos 
@@ -90,3 +90,8 @@ FILL THIS WITH COMMAND
 > this section will link to the data file template we will copy for each new mission on the microSD
 
 
+<!-- 
+"/Users/dapperdoctor22/Library/Arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/bin/avrdude" "-C/Users/dapperdoctor22/Library/Arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/etc/avrdude.conf" -v -V -patmega2560 -cwiring "-P/dev/cu.usbmodem143101" -b115200 -Uflash:r:readfile.hex:i
+
+-D "-Uflash:w:/private/var/folders/0t/s_3p0scn1j189ct37h5fk2w00000gn/T/arduino/sketches/5D15626AD9890A31F6F5826A078A8772/sketch_sep8a.ino.hex:i"
+ -->
