@@ -15,14 +15,15 @@ README last updated: 5 September 2024
 ### System Tasks
 - [x] Make Git repo ----------------------------- $${\color{blue}Due: 09/08 }$$	
 - [x] Format Git repo and upload current code --- $${\color{blue}Due: 09/08 }$$	
-- [ ] Power system for servos planned ----------- $${\color{red }Due: 09/08 - 09/15 }$$	
 - [ ] Order electronic controls min hardware ---- $${\color{red }Due: 09/15 }$$	
+- [ ] Code base restructured -------------------- $${\color{red }Due: 09/15 }$$	
+- [ ] Power system for servos planned ----------- $${\color{red }Due: 09/08 - 09/22 }$$	
 - [ ] Learn KiCAD ------------------------------- $${\color{red }Due: 09/08 - 09/22 }$$	
 - [ ] PCB component trade studies --------------- $${\color{red }Due: 09/08 - 09/22 }$$	
 - [ ] PCB board modeled ------------------------- $${\color{red }Due: 09/29 }$$	
 - [ ] PCB and other hardware ordered ------------ $${\color{red }Due: 10/06 }$$	
-- [ ] Code base restructured -------------------- $${\color{red }Due: 09/15 }$$	
-- [ ] dive-code bare-bones runtime ClockManager - $${\color{red }Due: 09/ }$$	
+
+- [ ] dive-code bare-bones runtime ClockManager - $${\color{red }Due: 09/22 }$$	
 
 ### Testing Tasks
 - [ ] Post processing script planning
@@ -31,7 +32,10 @@ README last updated: 5 September 2024
 - [ ] Servo wet testing plan
 - [ ] Servo wet test
 
-## Setup Local Git Repository
+
+## Git Usage
+
+### Setup Local Git Repository
 1. Clone the team repo
 ```
 git clone https://github.com/mbarbeau-umich/HPS-umich.git
@@ -59,28 +63,34 @@ git commit -m "COMMIT_MESSAGE"
 git push
 ```
 
+### Git Branch Commands
+
+List all of the branches in your repository. This is synonymous with git branch --list.
+```
+git branch
+```
+
+Create a new branch called ＜branch＞. This does not check out the new branch.
+```
+git branch <branch>
+```
+
+Rename the current branch to ＜branch＞.
+```
+git branch -m <branch>
+```
+
+Edit in a branch:
+```
+git checkout <branch>
+```
+
 ### Useful Git Commands
 Delete local changes and pull most recent files
 ```
 git reset --hard origin/main
 git pull
 ```
-
-Open Branch:
-```
-FILL THIS WITH COMMAND
-```
-
-Push Changes to your branch:
-```
-FILL THIS WITH COMMAND
-```
-
-Merge Branch to main:
-```
-FILL THIS WITH COMMAND
-```
-
 ## Software Loading Hardware
 
 > this section will outline how to boot the hardware with new dive code
