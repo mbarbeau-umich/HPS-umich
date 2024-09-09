@@ -21,8 +21,8 @@ README last updated: 5 September 2024
 | <ul><li>[X] </li></ul> Code base restructured -------------------- | $${\color{red }Due: 09/15 }$$ |	
 | <ul><li>[X] </li></ul> Power system for servos planned ----------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
 | <ul><li>[X] </li></ul> Learn KiCAD ------------------------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
-| <ul><li>[X] </li></ul> PCB component trade studies --------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
-| <ul><li>[X] </li></ul> PCB board modeled ------------------------- | $${\color{red }Due: 09/29 }$$ |	
+| <ul><li>[X] Test </li></ul> PCB component trade studies --------------- | $${\color{red }Due: 09/08 - 09/22 }$$ |	
+| :white_check_mark:  PCB board modeled ------------------------- | $${\color{red }Due: 09/29 }$$ |	
 | <style>span[class="checked"]{color: green;}</style> PCB and other hardware ordered | $${\color{red }Due: 10/06}$$ |	
 
 - [ ] dive-code bare-bones runtime ClockManager - $${\color{red }Due: 09/22 }$$	
