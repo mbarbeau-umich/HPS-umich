@@ -14,7 +14,7 @@ README last updated: 5 September 2024
 ## Task List
 ### System Tasks
 - [x] Make Git repo ----------------------------- $${\color{blue}Due: 09/08 }$$	
-- [x] Format Git repo and upload current code     $${\color{blue}Due: 09/08 }$$	
+- [x] Format Git repo and upload current code --- $${\color{blue}Due: 09/08 }$$	
 - [ ] Power system for servos planned ----------- $${\color{red }Due: 09/08 - 09/15 }$$	
 - [ ] Order electronic controls min hardware ---- $${\color{red }Due: 09/15 }$$	
 - [ ] Learn KiCAD ------------------------------- $${\color{red }Due: 09/08 - 09/22 }$$	
